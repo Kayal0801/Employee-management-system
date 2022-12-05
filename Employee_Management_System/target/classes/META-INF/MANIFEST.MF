@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Arul
+Build-Jdk: 19.0.1
+Implementation-Title: Employee_Management_System
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Employee_Management_System
+Created-By: Maven Integration for Eclipse
+
